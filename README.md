@@ -1,4 +1,4 @@
-# DB1701_RT84_RT3s Codeplug
+# DM-1701_RT84_RT3s Codeplug
 
 This codeplug built for the Baofeng DM-1701 but will work with minor modificaton on any of the TYT type DMR handhelds which support 3000 channels and 64 channels per zone. It was converted from the MD380-90_All_AU_DMR+analog Comprehensive Australian codeplugs which was developed for the for TYT MD-380 and MD-390 as originally developed by Matt, VK2MRC for the Goulburn and Southern Tablelands Amateur Radio Club. Anyone building on this Codeplug or forking, please acknowledge Matt VK2MRC and Det VK2KVP
 
