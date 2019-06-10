@@ -29,7 +29,7 @@ Duplex boards need a receive and transmit frequency which, like repeaters, need 
 
 <b>Testing</b>. These codeplugs are provided "as is" without support. Use them at your own risk. They have been tested to work on a Baofeng DM-1701 running firmware v2.02
 
-<b>Editing Codeplugs</b> All editing was conducted with G6AMU's DMR Codeplug Editor, whilst uploaded to test transceivers using the manufacturer's CPS tool. The latest version of Codeplug Editor is available from https://g7rvh.com/tyt-md-380/codeplug-editor/
+<b>Editing Codeplugs</b> All editing was conducted with G6AMU's DMR Codeplug Editor, whilst uploaded to test transceivers using the manufacturer's CPS tool. The latest version of Codeplug Editor is available from http://www.miklor.com/DMR/DMR-380-CPEditor.php
 
 Dale Farnworth's editcp was used to parse the codeplugs to identify invalid fields and cleanup. This is a very versatile codeplug editor which can also be used to translate codeplug formats for other devices. Linux and Windows versions aeavailable. It is available at: https://www.farnsworth.org/dale/codeplug/
 
